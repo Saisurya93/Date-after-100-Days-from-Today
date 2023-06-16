@@ -11,5 +11,4 @@ app.get("/", (request, response) => {
   );
 });
 
-app.listen(3200);
 module.exports = app;
